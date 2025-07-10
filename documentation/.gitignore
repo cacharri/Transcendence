@@ -1,0 +1,5 @@
+
+src/dockers/backend/node_modules
+src/dockers/frontend/node_modules
+src/dockers/frontend/public
+src/dockers/frontend/dist
