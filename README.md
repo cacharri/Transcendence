@@ -31,7 +31,7 @@ Key capabilities
 | Area                 | Type       | Module implemented                                                   |
 |----------------------|------------|---------------------------------------------------------------------|
 | **Web**              | Principal  | Backend framework (Fastify)                                         |
-|                      | Minor      | Database (PostgreSQL)                                               |
+|                      | Minor      | Database (SQLite 3)                                               |
 | **User management**  | Principal  | Standard user mgmt + auth + tournament users                        |
 |                      | Principal  | Remote authentication (OAuth 2.0)                                   |
 | **Gameplay / UX**    | Minor      | Game-customisation options                                          |
